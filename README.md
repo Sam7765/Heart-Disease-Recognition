@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabbygab1233%2FHeart-Failure-Predictor-Application&count_bg=%23231920&title_bg=%23F76767&icon=&icon_color=%23E7E7E7&title=Heart+Failure+Predictor&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 # Predicting the Survival of Patients with Heart Failure
 
