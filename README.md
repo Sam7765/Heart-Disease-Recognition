@@ -33,18 +33,9 @@ The dataset contains medical records of 299 patients who had heart failure, coll
     * Validation Score: 97%
     * ROC_AUC Score: 96.9 %
  
- 
-
-# Demo
-Live demo: https://heartfailure-predictor.herokuapp.com/
-
-Kaggle Kernel:  https://www.kaggle.com/gabbygab/patients-survival-prediction-web-application
 
 
 ![](https://i.imgur.com/Yrn231v.png)
 
 
-# References
-* https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5
-* https://github.com/batmanscode/breastcancer-predictor
-* https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records
+
