@@ -37,5 +37,12 @@ The dataset contains medical records of 299 patients who had heart failure, coll
 
 ![](https://i.imgur.com/Yrn231v.png)
 
+## Project Scope and Objective
+
+A heart failure recognition project aims to develop a system or model capable of accurately identifying individuals at risk of or experiencing heart failure. This can be achieved through various approaches, including:
+
+Early detection: Identifying individuals at high risk of developing heart failure based on clinical data and lifestyle factors.
+Diagnosis support: Assisting healthcare professionals in diagnosing heart failure by analyzing medical images, electrocardiograms (ECGs), or other relevant data.
+Prognosis prediction: Estimating the progression of heart failure and predicting patient outcomes.
 
 
