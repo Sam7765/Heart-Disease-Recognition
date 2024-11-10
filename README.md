@@ -37,6 +37,12 @@ The dataset contains medical records of 299 patients who had heart failure, coll
 
 ![](https://i.imgur.com/Yrn231v.png)
 
+
+# Power Bi Report Based on Heart Failure Analysis
+
+![Screenshot (537)](https://github.com/user-attachments/assets/3162b964-2d69-42a3-8a6f-ca32a61900fc)
+
+
 ## Project Scope and Objective
 
 A heart failure recognition project aims to develop a system or model capable of accurately identifying individuals at risk of or experiencing heart failure. This can be achieved through various approaches, including:
